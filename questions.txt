@@ -1,0 +1,99 @@
+What should the government do to help the poor?
+Make it easier to apply for assistance.
+Allow parents to use education funds for charter schools.
+Create welfare to work programs.
+Nothing.
+A:Democrat=3,Green=1
+B:Republican=2,Libertarian=1
+C:Republican=1,Democrat=1
+D:Libertarian=2
+
+What is your stance on climate change?
+Increase environmental regulations.
+Invest in green energy, not regulation.
+Let businesses handle environmental innovation.
+Climate change is a hoax.
+A:Green=3,Democrat=2
+B:Democrat=2,Green=1
+C:Libertarian=2,Republican=1
+D:Republican=3
+
+How should healthcare be handled?
+Expand government-run healthcare (Medicare for all).
+Offer public option alongside private.
+Deregulate private insurance market.
+Privatize all healthcare.
+A:Democrat=3,Green=2
+B:Democrat=2
+C:Libertarian=2,Republican=1
+D:Libertarian=3,Republican=2
+
+What’s the role of the military?
+Reduce military spending, invest in diplomacy.
+Maintain current spending levels.
+Increase military funding.
+Use military aggressively for national interest.
+A:Green=3,Democrat=2
+B:Democrat=1,Republican=1
+C:Republican=3
+D:Republican=2,Libertarian=1
+
+How should taxes be used?
+Increase taxes on wealthy to fund social programs.
+Keep taxes moderate, invest in innovation.
+Lower taxes to boost economy.
+Abolish income tax.
+A:Democrat=3,Green=1
+B:Democrat=1,Libertarian=1
+C:Republican=2
+D:Libertarian=3
+
+What should be done about immigration?
+Provide pathway to citizenship for undocumented immigrants.
+Focus on border security and legal immigration.
+Limit all immigration significantly.
+End all immigration programs.
+A:Democrat=3,Green=1
+B:Republican=2
+C:Republican=2,Libertarian=1
+D:Libertarian=2
+
+Should marijuana be legalized?
+Fully legalize for medical and recreational use.
+Legal for medical, decriminalized otherwise.
+Only medical marijuana allowed.
+Keep it illegal.
+A:Green=3,Libertarian=2
+B:Democrat=2,Libertarian=1
+C:Republican=2
+D:Republican=2
+
+How should education be reformed?
+Tuition-free public college.
+Public-private hybrid model.
+Vouchers for school choice.
+Eliminate public education system.
+A:Democrat=3,Green=2
+B:Democrat=1,Republican=1
+C:Republican=3
+D:Libertarian=3
+
+How should gun laws work?
+Ban assault weapons and enforce strict gun control.
+Require background checks, allow responsible ownership.
+Loosen restrictions and expand carry rights.
+No gun laws at all.
+A:Democrat=3,Green=2
+B:Democrat=1,Republican=1
+C:Republican=3
+D:Libertarian=3
+
+What should the government do about big tech companies?
+Break up monopolies like Amazon and Google.
+Regulate them like public utilities.
+Let free market handle it.
+Tech companies should be completely deregulated.
+A:Democrat=2,Green=2
+B:Democrat=2
+C:Republican=2
+D:Libertarian=3
